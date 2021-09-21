@@ -1,0 +1,27 @@
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.csprojAssemblyReference.cache
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.AssemblyInfoInputs.cache
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.AssemblyInfo.cs
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.csproj.CoreCompileInputs.cache
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.exe
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.deps.json
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.runtimeconfig.json
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.runtimeconfig.dev.json
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.dll
+C:\Users\Hector Romero\Desktop\Profesores\bin\Debug\netcoreapp3.1\Profesores.pdb
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.dll
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.pdb
+C:\Users\Hector Romero\Desktop\Profesores\obj\Debug\netcoreapp3.1\Profesores.genruntimeconfig.cache
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.exe
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.deps.json
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.runtimeconfig.json
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.runtimeconfig.dev.json
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.dll
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\bin\Debug\netcoreapp3.1\Profesores.pdb
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.AssemblyInfo.cs
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.dll
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.pdb
+C:\Users\DELL\Documents\UNAN\II Año\II Semestre\Desarrollo de Aplicaciones III\Semana 4\Profesores\obj\Debug\netcoreapp3.1\Profesores.genruntimeconfig.cache
